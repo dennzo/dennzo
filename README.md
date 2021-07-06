@@ -26,7 +26,7 @@ Class About extends Me
             'languages' => ['php', 'html', 'css', 'scss/sass', 'sql', 'bash'], 
             'frameworks' => ['symfony', 'bootstrap', 'wordpress'], 
             'toolset' => ['git', 'composer', 'npm', 'phpstorm', 'atlassian', 'adobe'], 
-            'devops' => ['docker', 'gitlab-ci', 'github-actions'],
+            'devops' => ['docker', 'jenkins', 'gitlab-ci', 'github-actions'],
             'os' => ['osx', 'ubuntu', 'centos', 'debian', 'windows'] 
             'webservers' => ['traefik', 'nginx', 'apache'],
             'databases' => ['mysql', 'mariadb', 'oracle'], 
