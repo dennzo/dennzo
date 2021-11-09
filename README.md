@@ -48,7 +48,7 @@ $about->sayHi();
 
 ## 📫 Connect with me
 
-[<img alt="website" src="https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://discord.com/users/201773417626730497) &nbsp;&nbsp;
+[<img alt="website" src="https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://dennzo.com) &nbsp;&nbsp;
 [<img alt="discord" src="https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/201773417626730497) &nbsp;&nbsp;
 [<img alt="twitter" src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/deennzoo)&nbsp;&nbsp;
 [<img alt="instagram" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/deennzo)&nbsp;&nbsp;
