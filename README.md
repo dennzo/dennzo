@@ -55,6 +55,7 @@ $about->sayHi();
 [<img alt="linkedin" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/dennzo)
 
 
+<!--
 
 ## 🏆 Github Statistics
 
@@ -63,4 +64,5 @@ $about->sayHi();
 ![trophy](https://github-profile-trophy.vercel.app/?username=dennzo&theme=dracula)
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennzo&show_icons=true&theme=dracula)
+-->
 
