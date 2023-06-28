@@ -9,13 +9,13 @@
 
 namespace Dennis\Barlowe;
 
-Class About extends Me
+readonly class About extends Me
 {
     public const CHARACTERISTICS = [
         'name'              =>  'Dennis Barlowe',
         'nationalities'     =>  ['en_US', 'de_DE'],
         'birthyear'         =>  1994,
-        'role'              =>  'Web Developer'
+        'role'              =>  'Web Developer',
         'gender'            =>  'male',
         'location'          =>  'Aschaffenburg, Germany',
     ];
@@ -23,14 +23,15 @@ Class About extends Me
     public function getPrimarySkillSet(): array
     {
         return [
-            'languages' => ['php', 'html', 'css', 'scss/sass', 'sql', 'bash'], 
-            'frameworks' => ['symfony', 'bootstrap', 'wordpress'], 
-            'toolset' => ['git', 'composer', 'npm', 'phpstorm', 'atlassian', 'adobe'], 
-            'devops' => ['docker', 'jenkins', 'gitlab-ci', 'github-actions'],
-            'os' => ['osx', 'ubuntu', 'centos', 'debian', 'windows'] 
+            'languages' => ['php', 'html', 'twig', 'css', 'scss/sass', 'javascript', 'sql', 'bash'], 
+            'frameworks' => ['symfony', 'wordpress'],
+            'libraries' => ['react', 'doctrine'],
+            'toolset' => ['git', 'composer', 'npm', 'intellij ide', 'atlassian', 'adobe', 'webpack'], 
+            'operations' => ['docker', 'jenkins', 'gitlab-ci', 'github-actions'],
+            'os' => ['osx', 'ubuntu', 'centos', 'debian', 'windows'],
             'webservers' => ['traefik', 'nginx', 'apache'],
             'databases' => ['mysql', 'mariadb', 'oracle'], 
-            'architecture' => ['microservices', 'design patterns', 'api', 'modular', 'unittests']
+            'architecture' => ['microservices', 'monolith', 'design patterns', 'api', 'modular', 'unittests', 'message queues', 'SOLID'],
         ];
     }
 
