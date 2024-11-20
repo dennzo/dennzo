@@ -1,6 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Dennis!</h1>
 
-<i>A passionate fullstack software developer from Germany 🇩🇪</i>
+<i>A passionate backend software developer from Germany 🇩🇪</i>
 
 ## 📖 About Me
 
@@ -24,14 +24,13 @@ readonly class About extends Me
     {
         return [
             'languages' => ['php', 'html', 'twig', 'css', 'scss/sass', 'javascript', 'sql', 'bash'], 
-            'frameworks' => ['symfony', 'wordpress'],
-            'libraries' => ['react', 'doctrine'],
+            'technologies' => ['react', 'doctrine', 'symfony', 'rabbitmq'],
             'toolset' => ['git', 'composer', 'npm', 'intellij ide', 'atlassian', 'adobe', 'webpack'], 
-            'operations' => ['docker', 'jenkins', 'gitlab-ci', 'github-actions'],
-            'os' => ['osx', 'ubuntu', 'centos', 'debian', 'windows'],
-            'webservers' => ['traefik', 'nginx', 'apache'],
+            'operations' => ['docker', 'jenkins', 'gitlab', 'zabbix'],
+            'os' => ['osx', 'centos', 'debian', 'windows'],
+            'webservers' => ['traefik', 'nginx', 'apache', 'haproxy'],
             'databases' => ['mysql', 'mariadb', 'oracle'], 
-            'architecture' => ['microservices', 'monolith', 'design patterns', 'api', 'modular', 'unittests', 'message queues', 'SOLID'],
+            'architecture' => ['microservices', 'monolith', 'design patterns', 'api', 'modular', 'unittests', 'async', 'message queues', 'KISS'],
         ];
     }
 
